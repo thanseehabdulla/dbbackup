@@ -1,0 +1,4 @@
+__v,_id,available_leave.casual_leave,available_leave.comp_off,available_leave.sick_leave,created_at,emp_code,leave_id,organization_code,total_leave.casual_leave,total_leave.comp_off,total_leave.sick_leave
+0,61dbd47e9131df9c829448b9,14,0,7,1641796734708,3211,16,CCS TECHNOLGIES P LTD2,15,0,7
+0,61dbd48b9131df9c829448c1,15,0,7,1641796747590,093607,17,CCS TECHNOLGIES P LTD2,15,0,7
+0,61dd39ed9131df9c82944973,15,0,7,1641888237099,hradmin,18,CCS2,15,0,7
