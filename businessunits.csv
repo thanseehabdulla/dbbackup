@@ -1,0 +1,10 @@
+__v,_id,bu_id,business_unit_code,created_at,hod_code,hod_email,hod_name,members,name,organization_code
+0,61a9eae2bc9c648e8215b29e,74,test,1638525666293,test,test@gmil.com,test,[],test,asdasdasdasdasdCCS2
+0,61ac7f99dedd3ff80c238f08,83,tech,1638694809769,asd,asd@gmail.com,asdf,"[""8652292"",""86522911""]",Technology,CCS2
+0,61accb55dedd3ff80c239022,84,AS,1638714197344,asd,asd@gmail.com,asd,"[""2247""]",Application Services,CCS2
+0,61aee2f5dedd3ff80c239323,88,BU1,1638851317196,AA1,anna@gmail.com,BU1,"[""32234"",""223"",""3232"",""3211"",""093607"",""0936072""]",BU12,CCS TECHNOLGIES P LTD2
+0,61af087467019d9125aa52b6,89,approver,1638860916956,approver,approver@gmail.com,approver,"[""test222""]",approver,CCS2
+0,61b9b84e7ca9855d288c2da2,91,ss,1639561294343,ss,ss@ddf.x,ss,"[""3222""]",ss,CCS TECHNOLGIES P LTD2
+0,61b9b84e7ca9855d288c2da6,92,ss,1639561294703,ss,ss@ddf.x,ss,[],ss,CCS TECHNOLGIES P LTD2
+0,61dbbec407327ca81b3b3f47,1,BU23,1641791172321,87877,alice@email.com,Alice Smith,[],Consulting,CCS TECHNOLGIES P LTD2
+0,61dbbf5207327ca81b3b3f59,2,BU7,1641791314633,223,elza@email.com,Elza,"[""768""]",BU&,CCS TECHNOLGIES P LTD2
